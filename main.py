@@ -38,13 +38,13 @@ global email
 global password
 
 #dictionary of mail addresses
-mail={"jyoti":"jyotiverma0900@gmail.com",
-"md":"mmr78621@gmail.com",
-"shubham":"shubhamg3010@gmail.com"}
+mail={"jyoti":"jyotiverma00@gmail.com",
+"md":"mmr78651@gmail.com",
+"shubham":"shubhamg3019@gmail.com"}
 
 #dictionary of whatsapp contacts
-contacts={"jyoti":"+918950299032",
-"shubham":"+919313632443",
+contacts={"jyoti":"+918950999032",
+"shubham":"+919313932443",
 "md":"+919599628951"}
 
 
