@@ -43,9 +43,9 @@ mail={"jyoti":"jyotiverma00@gmail.com",
 "shubham":"shubhamg3019@gmail.com"}
 
 #dictionary of whatsapp contacts
-contacts={"jyoti":"+918950999032",
-"shubham":"+919313932443",
-"md":"+919599628951"}
+contacts={"jyoti":"+9189###99032",
+"shubham":"+9193####2443",
+"md":"+919######951"}
 
 
 #speak function which speak the text comes in it.
